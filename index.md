@@ -20,7 +20,11 @@ LoveOS - идеальный выбор для тех, кто любит жить
 > Я хочу сделать этот мир лучше. Люблю вас всех котятки!
 
 
+## Что нового?
 
+В версии 0.0.1 добавлено:
+Нескучные обои)))))
+<https://github.com/evyas/LoveOS/releases/tag/0.0.1>
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
