@@ -1,5 +1,0 @@
-; Я люблю вас всех
-multiboot:
-
-_start:
-    call kernel
